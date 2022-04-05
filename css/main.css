@@ -1,0 +1,565 @@
+
+
+:root{
+    --accent-color: rgb(95, 95, 230);
+    --gray-1: rgb(109, 109, 109);
+    --gray-2: rgba(80,80,80, 0.6);
+    --gray-3: rgb(119, 119, 119);
+    --orange-1: rgb(240, 117, 57);
+}
+
+#triviaLink{
+  color: #000;
+}
+
+#pan{
+  margin-top: -7vw;
+}
+
+@font-face {
+  font-family: vandine;
+  src: url(../font/vanadine/Vanadine\ Regular.ttf);
+}
+
+@font-face {
+  font-family: pirulen;
+  src: url(../font/pirulen/pirulen.ttf);
+}
+
+
+html {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    background-image: url(https://wallpapercave.com/wp/wp8012845.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+
+h1, h2 {
+    text-align: center;
+    font-size: 1.8em;
+}
+
+h5 {
+    text-align: center;
+    margin: 0.2vw;
+    color: #000;
+}
+
+#panercons{
+  height: 20vw;
+  font-size: 1vw;
+  width: auto;
+}
+
+.realestateimgs {
+  width: 10vw;
+  border-radius: 0.5vw;
+}
+
+#logo{
+  height: 12vw;
+  width: auto;
+}
+
+#rotate {
+    width: 8%;
+}
+
+img {
+    width: 30%;
+    height: auto;
+}
+
+#cars {
+    width: 98vw;
+    margin: 0 auto;
+}
+
+#shop{
+    width: 65%;
+    height: auto;
+    border: 2vw none #000;
+    border-radius: 2vw;
+}
+
+.cars {
+    margin: 10vh 0;
+}
+
+#secondBlock{
+  padding-right: 5vw;
+}
+
+
+
+.carimgs{
+    width: 10vw;
+}
+
+#staff a h4 :hover{
+  color: rgb(151, 0, 0);
+}
+
+#head{
+  font-family: vandine;
+  color: #fff;
+  text-shadow: 2px 2px #000;
+}
+
+#head h1{
+  font-size: 4vw;
+}
+
+#head h2{
+  font-size: 2vw;
+}
+
+#law-main{
+  font-family: pirulen;
+  text-align: center;
+  justify-content: center;
+  color: #fff;
+  text-shadow: 2px 2px rgb(0, 0, 0);
+}
+
+#staff{
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.staffbox{
+  margin-top: -11vw;
+  width: 30%;
+}
+
+.staffboxlower{
+  margin-top: -8vw;
+  width: 30%;
+}
+
+.staffbox img{
+  height: 65%;
+  width: 60%;
+}
+
+.staffboxlower img{
+  height: 65%;
+  width: 60%;
+}
+
+#content{
+    width: 80vw;
+    padding: 2vw;
+    background-color: rgba(31, 31, 31, 0);
+    color: #000;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.break {
+  flex-basis: 100%;
+  height: 0;
+  margin-top: 3vw;
+}
+
+#currentNav{
+  /* color: var(--accent-color); */
+  background-color: var(--accent-color);
+}
+
+.box{
+    width: 15vw;
+    height: auto;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 1vw;
+    border-color: #000;
+    border-width: 0.2vw;
+    border-style: solid;
+    margin: 1vw;
+    margin-top: 1vw;
+}
+
+#staff img{
+  border-radius: 2vw;
+}
+
+
+
+#stuff{
+    width: 100%;
+    background-color: #191f22;
+    text-align: left;
+}
+
+#content-box{
+    background-color: rgb(0,72,153);
+    width: 10vw;
+    
+}
+#stayleft{
+  justify-content: left;
+}
+#pans{
+  width: 80vw;
+    padding: 2vw;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius:  2vw;
+    overflow: hidden;
+    color: #000;
+    text-align: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+  color: #000;
+  margin-top: 5.3vw;
+  overflow: hidden;
+  margin-bottom: 0vw;
+}
+
+
+
+
+
+
+
+
+
+.navbar {
+    overflow: hidden;
+    background-color: var(--gray-2);
+    font-family: Arial;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding-right: 4vw;
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all .5s;
+  }
+  
+  /* The dropdown container */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+    transition: all .5s;
+  }
+  
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+    transition: all .5s;
+  }
+
+  
+  
+  /* Add a red background color to navbar links on hover */
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: var(--gray-1);
+  }
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: var(--gray-3);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  #img1{
+    width: auto;
+    height: auto;
+  }
+
+
+
+  .wrapper {
+    height: 10vh;
+    /*This part is important for centering*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .typing-demo {
+    width: 22.1ch;
+    animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 2em;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  }
+
+  .wrapper2 {
+    height: 10vh;
+    /*This part is important for centering*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .typing-demo2 {
+    width: 11.1ch;
+    animation: typing 1s steps(11), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 2em;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: transparent
+    }
+  }
+
+  
+
+
+  .wrapper15 {
+    width: 90%;
+    padding: 2rem;
+    background: #fff;
+    box-shadow: 0 0px 2.2px rgba(0, 0, 0, 0.028), 0 0px 5.3px rgba(0, 0, 0, 0.04),
+      0 0px 10px rgba(0, 0, 0, 0.05), 0 0px 17.9px rgba(0, 0, 0, 0.06),
+      0 0px 33.4px rgba(0, 0, 0, 0.072), 0 0px 80px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.5;
+    background: rgb(85, 85, 85);
+    display: flex;
+    height: auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1vw;
+  }
+  .h3 {
+    background: rgba(85, 85, 85, 0.8);
+    color: #ddd;
+    letter-spacing: 0.1rem;
+    margin-top: 0vw;
+    padding: 1rem;
+    cursor: default;
+  }
+  form,
+  input,
+  textarea,
+  button {
+    font-family: inherit;
+    font-size: initial;
+  }
+  .form-group label {
+    display: block;
+    margin: 2rem 0 0.5rem 0;
+  }
+  .form-group input[type="text"],
+  .form-group input[type="email"],
+  .form-group textarea {
+    width: 100%;
+    padding: 1rem 0.8rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    outline: 0;
+    transition: border 0.15s;
+    border-radius: 0.2vw;
+  }
+  .form-group input[type="text"],
+  .form-group input[type="email"] {
+    height: 1rem;
+  }
+  .form-group textarea {
+    resize: vertical;
+  }
+  .submit {
+    font-weight: bold;
+    margin-top: 1rem;
+    padding: 1rem 1.5rem;
+    border: none;
+    background: rgb(85, 85, 85), 0.7;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  i {
+    margin-right: 0.5rem;
+  }
+  .submit:hover {
+    background: rgba(29, 29, 29, 0.7);
+  }
+  .form-group input[type="text"]:focus,
+  .form-group input[type="email"]:focus,
+  .form-group textarea:focus {
+    border: 1px solid #222;
+  }
+  
+  @media screen and (min-width: 576px) {
+    .wrapper15 {
+      width: 70%;
+    }
+  }
+  @media screen and (min-width: 768px) {
+    .wrapper15 {
+      width: 55%;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .wrapper15 {
+      width: 45%;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .wrapper15 {
+      width: 35%;
+    }
+  }
+  
+
+
+
+
+  .accordion {
+    width: 90%;
+    max-width: 1000px;
+    margin: 2rem auto;
+  }
+  .accordion-item {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: #111;
+    margin: 1rem 0;
+    margin-bottom: auto;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.25);
+  }
+  .accordion-item-header {
+    padding: 0.5rem 3rem 0.5rem 1rem;
+    min-height: 3.5rem;
+    line-height: 1.25rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+  }
+  .accordion-item-header::after {
+    content: "\002B";
+    font-size: 2rem;
+    position: absolute;
+    right: 1rem;
+  }
+  .accordion-item-header.active::after {
+    content: "\2212";
+  }
+  .accordion-item-body {
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+
+  .accordion-item-body-content {
+    padding: 1rem;
+    line-height: 1.5rem;
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
+  }
+  
+  @media(max-width:767px) {
+    html {
+      font-size: 14px;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
