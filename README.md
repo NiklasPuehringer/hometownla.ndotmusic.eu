@@ -1,2 +1,5 @@
 # hometownla.ndotmusic.eu
-The Code for the HometownLA Website
+
+Last Update: April 5th, 8:16AM
+
+View the Live version on hometownla.ndotmusic.eu
