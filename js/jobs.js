@@ -1,28 +1,37 @@
 function lapd(){
 
-    document.getElementById("head").innerHTML = `<h1><img src="./img/lapd.png" alt="LAPD" id="logo"></h1>`
-    document.getElementById("html").style.backgroundImage = `url(./img/mrpd.jpg)`
+    //document.getElementById("head").innerHTML = `<h1><img src="./img/lapd.png" alt="LAPD" id="logo"></h1>`
+    document.getElementById("html").style.backgroundImage = `url(https://gta5mod.net/wp-content/uploads/2020/09/Abandoned-Mission-Row-PD-Zombie-Apocalypse.jpg)`
     
     
     document.getElementById("content").innerHTML = `
+    <div id="pans">
     <h2>Owner: -Set Character Name-</h2>
     <hr>
     <h3>The Los Angeles Police Department</h3>
+    </div>
+    <footer>
+    <img src="./img/lapd.png" alt="LAMD" id="logo">
+    </footer>
     
     `
 
 }
 
 function lamd(){
-    document.getElementById("head").innerHTML = `<h1><img src="./img/lamd.png" alt="LAMD" id="logo"></h1>`
-    document.getElementById("html").style.backgroundImage = `url(./img/zonah.jpg)`
+    //document.getElementById("head").innerHTML = `<h1><img src="./img/lamd.png" alt="LAMD" id="logo"></h1>`
+    document.getElementById("html").style.backgroundImage = `url(https://i.pinimg.com/originals/7c/d3/e1/7cd3e1327fcad01f0f579a3d7ace4405.jpg)`
 
     
     document.getElementById("content").innerHTML = `
+    <div id="pans">
     <h2>Owner: -Set Character Name-</h2>
     <hr>
     <h3>The Los Angeles Medical Department</h3>
-    
+    </div>
+    <footer>
+    <img src="./img/lamd.png" alt="LAMD" id="logo">
+    </footer>
     `
 
 }
