@@ -362,7 +362,7 @@ document.getElementById("content").innerHTML  = `<div class="wrapper15">
     </div>
     <div class="form-group">
     <label for="birthday">Birthday</label>
-<input type="date" id="birthday" name="birthday">
+<input type="date" id="birthday" name="birthday" placeholder="TT.MM.JJJJ">
 </div>
 <div class="form-group">
       <label for="name">Steam ID64</label>
@@ -610,7 +610,7 @@ Hierbei werden $ 10.000 zu je zwanzig Hafteinheiten umgewandelt.<br>
 • Nr. 3 Entzug von Berechtigungen und Lizenzen<br>
 • Nr. 4 Todesstrafe<br>
 (a) Die Strafe muss durch das Supreme Court California verkündet werden und durch das Parlament einstimmig ratifiziert werden. Erst mit den Unterschriften des Attorney General und des Präsidenten ist das Urteil rechtskräftig und darf vollstreckt werden.<br>
-(b) Die Todesstrafe darf nur von einem, dem Staate California unterstellten Beamten ausgeführt werden. Die verurteilte Person wird per Kopfschuss hingerichtet. Nach dem Vollzug der Todesstrafe ist die verurteilte Person für 24 Stunden aus dem Staate California verbannt. Ein erneutes erstellen der selben Persönlichkeit wird mit einem permanenten Ausschluss aus dem Projekt HTLA bestraft.<br>
+(b) Die Todesstrafe darf nur von einem, dem Staate California unterstellten Beamten ausgeführt werden. Die verurteilte Person wird per Kopfschuss hingerichtet. Nach dem Vollzug der Todesstrafe ist die verurteilte Person für 24 Stunden aus dem Staate California verbannt. Ein erneutes Erstellen der selben Persönlichkeit wird mit einem permanenten Ausschluss aus dem Projekt HTLA bestraft.<br>
         </div>
       </div>
     </div>
