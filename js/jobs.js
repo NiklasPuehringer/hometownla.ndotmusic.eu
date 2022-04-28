@@ -1,12 +1,12 @@
 function lapd(){
 
     //document.getElementById("head").innerHTML = `<h1><img src="./img/lapd.png" alt="LAPD" id="logo"></h1>`
-    document.getElementById("html").style.backgroundImage = `url(https://gta5mod.net/wp-content/uploads/2020/09/Abandoned-Mission-Row-PD-Zombie-Apocalypse.jpg)`
+    document.getElementById("html").style.backgroundImage = `url(../img/LAPDBackground.jpeg)`
     
     
     document.getElementById("content").innerHTML = `
     <div id="pans">
-    <h2>Owner: -Set Character Name-</h2>
+    <h2>Chief of Police: John Marten</h2>
     <hr>
     <h3>The Los Angeles Police Department</h3>
     </div>
@@ -20,12 +20,12 @@ function lapd(){
 
 function lamd(){
     //document.getElementById("head").innerHTML = `<h1><img src="./img/lamd.png" alt="LAMD" id="logo"></h1>`
-    document.getElementById("html").style.backgroundImage = `url(https://i.pinimg.com/originals/7c/d3/e1/7cd3e1327fcad01f0f579a3d7ace4405.jpg)`
+    document.getElementById("html").style.backgroundImage = `url(../img/LAMDBackground.jpeg)`
 
     
     document.getElementById("content").innerHTML = `
     <div id="pans">
-    <h2>Owner: -Set Character Name-</h2>
+    <h2>Medical Chief: -Set Character Name-</h2>
     <hr>
     <h3>The Los Angeles Medical Department</h3>
     </div>
@@ -55,7 +55,7 @@ function galaxy(){
 
 function panercons(){
     document.getElementById("head").innerHTML = `<h1>Panercon's Real Estate Agency</h1>`
-    document.getElementById("html").style.backgroundImage = `url(https://res.cloudinary.com/trends-publishing/image/upload/dpr_2.0,g_center,w_640/f_auto,q_auto:eco/0151869.jpg)`
+    document.getElementById("html").style.backgroundImage = `url(../img/RealEstateBackground.webp)`
     document.getElementById("content").innerHTML = `
     <div id="pans">
     <h2>Owner: Biggus Panercons</h2>

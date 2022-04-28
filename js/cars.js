@@ -1923,7 +1923,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "http://assets.stickpng.com/images/58ee90473545163ec1942cdd.png",
+        Image: "../img/corvettec7.png",
         spawn: "c7"
     }, 
     80:{
@@ -1963,7 +1963,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "ccss16"
     }, 
     84:{
@@ -1973,7 +1973,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "impala"
     }, 
     85:{
@@ -1983,7 +1983,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "manana"
     }, 
     86:{
@@ -1993,7 +1993,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/camarozl1.png",
         spawn: "zl2017"
     }, 
     87:{
@@ -2003,7 +2003,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/newtahoe.png",
         spawn: "granger"
     }, 
     88:{
@@ -2013,7 +2013,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "slamvan"
     }, 
     89:{
@@ -2023,7 +2023,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/belair.png",
         spawn: "tornado"
     }, 
     90:{
@@ -2033,7 +2033,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/camaror5.png",
         spawn: "21camaro"
     }, 
     91:{
@@ -2043,7 +2043,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "impalass"
     }, 
     92:{
@@ -2053,7 +2053,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/corvettec8.png",
         spawn: "stingray"
     }, 
     93:{
@@ -2063,7 +2063,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "buccaneer"
     }, 
     94:{
@@ -2103,7 +2103,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "chevelle1970"
     }, 
     98:{
@@ -2603,7 +2603,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/fordgt.png",
         spawn: "gt17"
     },
     148:{
@@ -2613,7 +2613,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.seekpng.com/png/full/352-3526219_all-new-ford-gt-ford-gt-2017-png.png"
+        Image: "../img/unknown_car.png"
     },
     149:{
         brand: "Ford",
@@ -2662,7 +2662,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "mamba"
     },
     154:{
@@ -2672,7 +2672,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/focusrs.png",
         spawn: "omnis"
     },
     155:{
@@ -2682,7 +2682,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/fordgtold.png",
         spawn: "bullet"
     },
     156:{
@@ -2692,7 +2692,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/fordf15078.png",
         spawn: "f15078"
     },
     157:{
@@ -2702,7 +2702,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/shelbygt500.png",
         spawn: "primo2"
     },
     158:{
@@ -2712,7 +2712,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "19gt500"
     },
     159:{
@@ -2722,7 +2722,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/boss302.png",
         spawn: "boss302"
     },
     160:{
@@ -2732,7 +2732,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/boss429.png",
         spawn: "boss429"
     },
     161:{
@@ -2742,7 +2742,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/eleanor.png",
         spawn: "eleanor"
     },
     162:{
@@ -2752,7 +2752,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/fordeverest.png",
         spawn: "everest"
     },
     163:{
@@ -2762,7 +2762,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/focusrs.png",
         spawn: "focusrs"
     },
     164:{
@@ -2772,7 +2772,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/boss3022013.png",
         spawn: "13fmb302"
     },
     165:{
@@ -2782,7 +2782,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "fastback"
     },
     166:{
@@ -2792,7 +2792,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "sandking"
     },
     167:{
@@ -2802,7 +2802,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://media.lpgenerator.ru/images/471569/m6-b.png",
+        Image: "../img/unknown_car.png",
         spawn: "ratloader2"
     },
     168:{
@@ -2812,7 +2812,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/harley.png",
         spawn: "sovereign"
     },
     169:{
@@ -2842,7 +2842,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/holden.png",
         spawn: "a9x"
     },
     172:{
@@ -2852,7 +2852,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/s2000.png",
         spawn: "ap2"
     },
     173:{
@@ -2862,7 +2862,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/civictyper.png",
         spawn: "fk8"
     },
     174:{
@@ -2872,7 +2872,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/hondansx.png",
         spawn: "nsexrb"
     },
     175:{
@@ -2882,7 +2882,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/xre300.png",
         spawn: "xre300"
     },
     176:{
@@ -2892,7 +2892,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/civictyper.png",
         spawn: "blista2"
     },
     177:{
@@ -2902,7 +2902,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/i30.png",
         spawn: "bmhyundaii30"
     },
     178:{
@@ -2912,7 +2912,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/q30.png",
         spawn: "q30"
     },
     179:{
@@ -2922,7 +2922,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/qx56.webp",
         spawn: "qx56"
     },
     180:{
@@ -2932,7 +2932,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/project7.png",
         spawn: "p7"
     },
     181:{
@@ -2942,7 +2942,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/jaguarxj.png",
         spawn: "xj"
     },
     182:{
@@ -2952,7 +2952,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/jaguarxfr.png",
         spawn: "xfr"
     },
     183:{
@@ -2962,7 +2962,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/ftype.png",
         spawn: "ftype"
     },
     184:{
@@ -2972,7 +2972,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/xj220.webp",
         spawn: "xj220"
     },
     185:{
@@ -2982,7 +2982,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/etype.png",
         spawn: "etype2"
     },
     186:{
@@ -2992,7 +2992,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/xfr.png",
         spawn: "jackal"
     },
     187:{
@@ -3002,7 +3002,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/xes.webp",
         spawn: "jagpr8"
     },
     188:{
@@ -3012,7 +3012,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/fpace.png",
         spawn: "fpacehm"
     },
     189:{
@@ -3022,7 +3022,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/xes.webp",
         spawn: "xes2015"
     },
     190:{
@@ -3032,7 +3032,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "jagxjs80"
     },
     191:{
@@ -3042,7 +3042,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/gchersrt.png",
         spawn: "srt8"
     },
     192:{
@@ -3052,7 +3052,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/wrengler.png",
         spawn: "jljeep"
     },
     193:{
@@ -3062,7 +3062,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/trackhawk.png",
         spawn: "trhawk"
     },
     194:{
@@ -3072,7 +3072,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/willy.webp",
         spawn: "kalahari"
     },
     195:{
@@ -3082,7 +3082,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/rubicon.png",
         spawn: "jeep2012"
     },
     196:{
@@ -3092,7 +3092,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/trackhawksrt.png",
         spawn: "rmodjeep"
     },
     197:{
@@ -3102,7 +3102,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/trailcat.webp",
         spawn: "trailcat"
     },
     198:{
@@ -3112,7 +3112,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/kawasakizh2.png",
         spawn: "zh2"
     },
     199:{
@@ -3122,7 +3122,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/kawasaki250fi.png",
         spawn: "ninja250fi"
     },
     200:{
@@ -3132,7 +3132,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/ninjah2r.png",
         spawn: "nh2r"
     },
     201:{
@@ -3142,7 +3142,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/stingergt.webp",
         spawn: "kiagt"
     },
     202:{
@@ -3152,7 +3152,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/sorento.png",
         spawn: "sorento19"
     },
     203:{
@@ -3162,7 +3162,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/ccx.png",
         spawn: "ccx"
     },
     204:{
@@ -3172,7 +3172,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/jesko.png",
         spawn: "jes"
     },
     205:{
@@ -3182,7 +3182,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/regera.webp",
         spawn: "regera"
     },
     206:{
@@ -3192,7 +3192,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/agerars.webp",
         spawn: "agerars"
     },
     207:{
@@ -3202,7 +3202,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/one1.webp",
         spawn: "ageraone"
     },
     208:{
@@ -3212,7 +3212,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/aventadorj.webp",
         spawn: "avj"
     },
     209:{
@@ -3222,7 +3222,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/reventon.webp",
         spawn: "fmj"
     },
     210:{
@@ -3232,7 +3232,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/veneno.webp",
         spawn: "t20"
     },
     211:{
@@ -3242,7 +3242,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/sc18alston.jpeg",
         spawn: "sc18"
     },
     212:{
@@ -3252,7 +3252,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/huracan.webp",
         spawn: "lp610"
     },
     213:{
@@ -3262,7 +3262,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/aventador.png",
         spawn: "lp700"
     },
     214:{
@@ -3272,7 +3272,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/centenario.webp",
         spawn: "lp770"
     },
     215:{
@@ -3282,7 +3282,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/miura.webp",
         spawn: "miura"
     },
     216:{
@@ -3292,7 +3292,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/sestoelemento.png",
         spawn: "sesto"
     },
     217:{
@@ -3302,7 +3302,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/sianr.webp",
         spawn: "sianr"
     },
     218:{
@@ -3312,7 +3312,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/countach.png",
         spawn: "count6"
     },
     219:{
@@ -3322,17 +3322,17 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/diablo.png",
         spawn: "diablo"
     },
     220:{
         brand: "Lamborghini",
-        name: "Murcielago SV",
+        name: "Murcielago",
         Price: "$450.000",
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/murcielago.png",
         spawn: "lp670sv"
     },
     221:{
@@ -3342,7 +3342,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/asterion.png",
         spawn: "asterion"
     },
     222:{
@@ -3352,7 +3352,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/murcielafo.png",
         spawn: "infernus"
     },
     223:{
@@ -3362,7 +3362,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/urus.png",
         spawn: "urus2018"
     },
     224:{
@@ -3372,7 +3372,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/veneno.png",
         spawn: "zentorno"
     },
     225:{
@@ -3382,7 +3382,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/lambo500gtr.webp",
         spawn: "500gtrlam"
     },
     226:{
@@ -3392,7 +3392,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/huracan.png",
         spawn: "pfister811"
     },
     227:{
@@ -3402,7 +3402,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/huracanperformante.png",
         spawn: "18performante"
     },
     228:{
@@ -3412,7 +3412,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/lx570.png",
         spawn: "lex570"
     },
     229:{
@@ -3422,7 +3422,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/lx570.png",
         spawn: "lx2018"
     },
     230:{
@@ -3432,7 +3432,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/c63LW.webp",
         spawn: "63lb"
     },
     231:{
@@ -3442,17 +3442,17 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/aventadorLW.jpeg",
         spawn: "610lb"
     },
     232:{
         brand: "Liberty Walk",
-        name: "AS5",
+        name: "Audi S5",
         Price: "$200.000",
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/s5LW.jpeg",
         spawn: "lwas5"
     },
     233:{
@@ -3462,7 +3462,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/gt86LW.png",
         spawn: "gt86lb"
     },
     234:{
@@ -3472,7 +3472,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/r35LW.png",
         spawn: "gtrlb2"
     },
     235:{
@@ -3482,7 +3482,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/nsxLW.jpeg",
         spawn: "filthynsx"
     },
     236:{
@@ -3492,7 +3492,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/scg003s.png",
         spawn: "rmodscg003s"
     },
     237:{
@@ -3502,7 +3502,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/huracanLW.png",
         spawn: "huralbcamber"
     },
     238:{
@@ -3512,7 +3512,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/huracanLW2.webp",
         spawn: "huralbnormal"
     },
     239:{
@@ -3522,7 +3522,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/gallardoLW.jpeg",
         spawn: "gallardosuperlb"
     },
     240:{
@@ -3532,7 +3532,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/elisegt1.webp",
         spawn: "elisegt1"
     },
     241:{
@@ -3542,7 +3542,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/mc12.webp",
         spawn: "mc12"
     },
     242:{
@@ -3552,7 +3552,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/ghibli.png",
         spawn: "ghis2"
     },
     243:{
@@ -3562,7 +3562,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/mcgts.png",
         spawn: "mcgt4"
     },
     244:{
@@ -3572,7 +3572,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/quaddroporte.png",
         spawn: "mqgts"
     },
     245:{
@@ -3582,7 +3582,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/mc12-2.webp",
         spawn: "sheava"
     },
     246:{
@@ -3592,7 +3592,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/levante.png",
         spawn: "levante"
     },
     247:{
@@ -3602,7 +3602,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/mansorylevante.webp",
         spawn: "mlmansory"
     },
     248:{
@@ -3612,7 +3612,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/mansorylevante.webp",
         spawn: "mlnovitec"
     },
     249:{
@@ -3622,7 +3622,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/granturismo.png",
         spawn: "mgrantur2010"
     },
     250:{
@@ -3632,17 +3632,17 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/mx5.png",
         spawn: "blista3"
     },
     251:{
         brand: "Mazda",
-        name: "Concept",
+        name: "Furai Concept",
         Price: "$4.500.000",
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/mazdafurai.png",
         spawn: "prototipo"
     },
     252:{
@@ -3652,7 +3652,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/mclarenp1.png",
         spawn: "p1"
     },
     253:{
@@ -3662,7 +3662,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/650s.png",
         spawn: "650s"
     },
     254:{
@@ -3672,7 +3672,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/720s.png",
         spawn: "720s"
     },
     255:{
@@ -3682,7 +3682,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/elva.webp",
         spawn: "elva"
     },
     256:{
@@ -3692,7 +3692,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/speedtail.webp",
         spawn: "mcst"
     },
     257:{
@@ -3702,7 +3702,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/675lt.webp",
         spawn: "675lt"
     },
     258:{
@@ -3712,7 +3712,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "p1gtr"
     },
     259:{
@@ -3722,7 +3722,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "senna"
     },
     260:{
@@ -3732,7 +3732,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "bestiagts"
     },
     261:{
@@ -3742,7 +3742,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "a45"
     },
     262:{
@@ -3752,7 +3752,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "mb6"
     },
     263:{
@@ -3762,7 +3762,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "e400"
     },
     264:{
@@ -3772,7 +3772,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "gl63"
     },
     265:{
@@ -3782,7 +3782,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "le7b"
     },
     266:{
@@ -3792,7 +3792,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "v250"
     },
     267:{
@@ -3802,7 +3802,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "amggt"
     },
     268:{
@@ -3812,7 +3812,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "c6320"
     },
     269:{
@@ -3822,7 +3822,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "c63hr"
     },
     270:{
@@ -3832,7 +3832,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "felon"
     },
     271:{
@@ -3842,7 +3842,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "gt63s"
     },
     272:{
@@ -3852,7 +3852,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "macla"
     },
     273:{
@@ -3862,7 +3862,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "primo"
     },
     274:{
@@ -3872,7 +3872,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "19s650"
     },
     275:{
@@ -3882,7 +3882,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "amggtr"
     },
     276:{
@@ -3892,7 +3892,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "dubsta"
     },
     277:{
@@ -3902,7 +3902,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "e63amg"
     },
     278:{
@@ -3912,7 +3912,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "gle450"
     },
     279:{
@@ -3922,7 +3922,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "mbhome"
     },
     280:{
@@ -3932,7 +3932,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "slsamg"
     },
     281:{
@@ -3942,7 +3942,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "12cls63"
     },
     282:{
@@ -3952,7 +3952,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "amggtr2"
     },
     283:{
@@ -3962,7 +3962,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "c63w205"
     },
     284:{
@@ -3972,7 +3972,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "cla45sb"
     },
     285:{
@@ -3982,7 +3982,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "cls2015"
     },
     286:{
@@ -3992,7 +3992,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "g632019"
     },
     287:{
@@ -4002,7 +4002,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "mers63c"
     },
     288:{
@@ -4012,7 +4012,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "serrano"
     },
     289:{
@@ -4022,7 +4022,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "c63coupe"
     },
     290:{
@@ -4032,7 +4032,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "feltzer3"
     },
     291:{
@@ -4042,7 +4042,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "s500w222"
     },
     292:{
@@ -4052,7 +4052,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "amggtr20"
     },
     293:{
@@ -4062,7 +4062,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "mvsiongt"
     },
     294:{
@@ -4072,7 +4072,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "caldarsi"
     },
     295:{
@@ -4082,7 +4082,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "schafter5"
     },
     296:{
@@ -4092,7 +4092,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "issi2"
     },
     297:{
@@ -4102,7 +4102,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "panto"
     },
     298:{
@@ -4112,7 +4112,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "gtr"
     },
     299:{
@@ -4122,7 +4122,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "elegy2"
     },
     300:{
@@ -4132,7 +4132,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "skyline"
     },
     301:{
@@ -4142,7 +4142,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "rmodskyliner34"
     },
     302:{
@@ -4152,7 +4152,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "rmodgtr50"
     },
     303:{
@@ -4162,7 +4162,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "stancedr32"
     },
     304:{
@@ -4172,7 +4172,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "m600"
     },
     305:{
@@ -4182,7 +4182,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "imola"
     },
     306:{
@@ -4192,7 +4192,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "osiris"
     },
     307:{
@@ -4202,7 +4202,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "reaper"
     },
     308:{
@@ -4212,7 +4212,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "brioso"
     },
     309:{
@@ -4222,7 +4222,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "pm19"
     },
     310:{
@@ -4232,7 +4232,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "ztype"
     },
     311:{
@@ -4242,7 +4242,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "comet2"
     },
     312:{
@@ -4252,7 +4252,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "turs21"
     },
     313:{
@@ -4262,7 +4262,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "jester2"
     },
     314:{
@@ -4272,7 +4272,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "porrs73"
     },
     315:{
@@ -4282,7 +4282,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "exemplar"
     },
     316:{
@@ -4292,7 +4292,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "coquette3"
     },
     317:{
@@ -4302,7 +4302,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "trx"
     },
     318:{
@@ -4312,7 +4312,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "ram2500"
     },
     319:{
@@ -4322,7 +4322,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "17powerwagon"
     },
     320:{
@@ -4332,7 +4332,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "superd"
     },
     321:{
@@ -4342,7 +4342,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "wraith"
     },
     322:{
@@ -4352,7 +4352,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "windsor"
     },
     323:{
@@ -4362,7 +4362,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "rrphantom"
     },
     324:{
@@ -4372,7 +4372,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "fx4"
     },
     325:{
@@ -4382,7 +4382,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "rr12"
     },
     326:{
@@ -4392,7 +4392,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "rrst"
     },
     327:{
@@ -4402,7 +4402,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "svr16"
     },
     328:{
@@ -4412,7 +4412,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "evoque"
     },
     329:{
@@ -4422,7 +4422,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "ss7"
     },
     330:{
@@ -4432,7 +4432,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "sultanrs"
     },
     331:{
@@ -4442,7 +4442,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "ysbrimps11"
     },
     332:{
@@ -4452,7 +4452,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "subietuning"
     },
     333:{
@@ -4462,7 +4462,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "teslax"
     },
     334:{
@@ -4472,7 +4472,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "p90d"
     },
     335:{
@@ -4482,7 +4482,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "tmodel"
     },
     336:{
@@ -4492,7 +4492,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "tr22"
     },
 
@@ -4508,7 +4508,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     338:{
@@ -4518,7 +4518,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     339:{
@@ -4528,7 +4528,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     340:{
@@ -4538,7 +4538,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     341:{
@@ -4548,7 +4548,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     342:{
@@ -4558,7 +4558,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     343:{
@@ -4568,7 +4568,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     344:{
@@ -4578,7 +4578,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     345:{
@@ -4588,7 +4588,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     346:{
@@ -4598,7 +4598,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     347:{
@@ -4608,7 +4608,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     348:{
@@ -4618,7 +4618,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     349:{
@@ -4628,7 +4628,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     350:{
@@ -4638,7 +4638,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     351:{
@@ -4648,7 +4648,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     352:{
@@ -4658,7 +4658,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     353:{
@@ -4668,7 +4668,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     354:{
@@ -4678,7 +4678,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     355:{
@@ -4688,7 +4688,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "675lt"
     },
     356:{
@@ -4698,7 +4698,7 @@ var cars = {
         HP: "120",
         kph: "9,4s",
         vmax: "154km/h",
-        Image: "https://www.pngkit.com/png/full/3-39476_classic-harley-davidson-png.png",
+        Image: "../img/unknown_car.png",
         spawn: "faggio2"
     }
 

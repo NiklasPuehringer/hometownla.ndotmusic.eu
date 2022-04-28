@@ -38,6 +38,12 @@ html {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    height: 100%;
+}
+
+body{
+  width: 100%;
+  height: 100%;
 }
 
 
@@ -112,6 +118,7 @@ img {
   font-family: vandine;
   color: #fff;
   text-shadow: 2px 2px #000;
+  height: 100%;
 }
 
 #head h1{
@@ -139,11 +146,15 @@ img {
 .staffbox{
   margin-top: -11vw;
   width: 30%;
+  font-size: 1.5vw;
+  text-shadow: 1px 1px rgb(255, 255, 255);
 }
 
 .staffboxlower{
   margin-top: -8vw;
   width: 30%;
+  font-size: 1.5vw;
+  text-shadow: 1px 1px rgb(255, 255, 255);
 }
 
 .staffbox img{
@@ -243,11 +254,11 @@ img {
     overflow: hidden;
     background-color: var(--gray-2);
     font-family: Arial;
-    width: 100%;
+    width: 99%;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    padding-right: 4vw;
+    padding-right: 0vw;
   }
   
   /* Links inside the navbar */
@@ -327,11 +338,13 @@ img {
 
 
   .wrapper {
-    height: 10vh;
+    height: 100%;
+    
     /*This part is important for centering*/
     display: flex;
     align-items: center;
     justify-content: center;
+    
   }
   
   .typing-demo {
@@ -341,7 +354,7 @@ img {
     overflow: hidden;
     border-right: 3px solid;
     font-family: monospace;
-    font-size: 2em;
+    font-size: 4em;
   }
   
   @keyframes typing {
@@ -357,21 +370,23 @@ img {
   }
 
   .wrapper2 {
-    height: 10vh;
+    height: 100%;
+    
     /*This part is important for centering*/
     display: flex;
     align-items: center;
     justify-content: center;
+    
   }
   
   .typing-demo2 {
     width: 11.1ch;
-    animation: typing 1s steps(11), blink .5s step-end infinite alternate;
+    animation: typing 2s steps(22), blink .5s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
     border-right: 3px solid;
     font-family: monospace;
-    font-size: 2em;
+    font-size: 4em;
   }
   
   @keyframes typing {
@@ -549,24 +564,3 @@ img {
       font-size: 14px;
     }
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-

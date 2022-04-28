@@ -1,36 +1,41 @@
 let i = Math.floor(Math.random() * 14) + 1;
 let random = i
 
-var pics = ["https://pressakey.com/gfxsocial/Grand-Theft-Auto-V-news-10897.jpg",
-"https://cdn.99images.com/photos/wallpapers/games/4k-gta-5%20android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-hsdax.jpg",
-"https://wallpaperaccess.com/full/707182.jpg",
-"https://i.pinimg.com/originals/ac/9a/3e/ac9a3ec5236bec8a3554c6022fc81a23.jpg",
-"https://w.wallha.com/ws/13/ZsOqvhKi.jpg",
-"https://www.teahub.io/photos/full/53-531827_gta-5-wallpaper-4k.jpg",
-"https://i.pinimg.com/originals/ac/9a/3e/ac9a3ec5236bec8a3554c6022fc81a23.jpg",
-"https://i.ytimg.com/vi/xr7kT41rJyA/maxresdefault.jpg",
-"https://www.igta5.com/images/official-screenshot-overlooking-the-vinewood-sign-at-night.jpg",
-"https://www.teahub.io/photos/full/287-2870761_gta-v-4k-wallpaper-3840x2160-gta-5-4k.jpg",
-"https://wallpaperaccess.com/full/707179.jpg",
-"https://www.teahub.io/photos/full/106-1067373_gta-v-wallpaper-4k.jpg","https://wallpaper.dog/large/17119411.jpg",
-"https://wallpapers.oceanofwallpapers.com/wallpapers/previews/wallpaper-48mxz2-921067-Preview.webp",
-"https://i.ytimg.com/vi/wjCpITRgtlw/maxresdefault.jpg"]
+var pics = [
+"../img/wallpaper0.jpeg",
+"../img/wallpaper1.jpeg",
+"../img/wallpaper2.jpeg",
+"../img/wallpaper3.jpeg",
+"../img/wallpaper4.jpeg",
+"../img/wallpaper5.jpeg",
+"../img/wallpaper6.jpeg",
+"../img/wallpaper7.jpeg",
+"../img/wallpaper8.jpeg",
+"../img/wallpaper9.jpeg",
+"../img/wallpaper10.jpeg",
+"../img/wallpaper11.jpeg",
+"../img/wallpaper12.jpeg",
+"../img/wallpaper13.jpeg",
+"../img/wallpaper14.jpeg"
+]
 
-var carBG = ["https://wallpapercave.com/wp/wp7453309.jpg",
-"https://i.pinimg.com/originals/e6/4a/4d/e64a4d4e28590e912f4f21934d0c9b82.jpg",
-"https://i.ytimg.com/vi/HyB-szj4Xnw/maxresdefault.jpg",
-"https://wallpapercave.com/wp/wp3191452.jpg",
-"https://images.hdqwalls.com/wallpapers/gta-v-bugatti-divo-rl.jpg",
-"https://wallpaperaccess.com/full/2020797.jpg",
-"https://images.hdqwalls.com/wallpapers/drifting-cars-in-gta-5-4k-50.jpg",
-"https://i.pinimg.com/originals/e4/3e/24/e43e24893af4bd5e9e07c1969bbccc20.jpg",
-"https://wallpapercave.com/wp/wp7960327.jpg",
-"https://img.gta5-mods.com/q75/images/2020-toyota-supra-mk-v-drift-machine-add-on-fivem-tuning/1127fa-1.png",
-"https://img.gta5-mods.com/q95/images/2020-toyota-supra-mk-v-drift-machine-add-on-fivem-tuning/1127fa-EVE-20210901163551.004.png",
-"https://wallpapercave.com/wp/wp3191452.jpg",
-"https://wallpaperaccess.com/full/3378581.jpg",
-"https://i.imgur.com/tQQtcz1.jpg",
-"https://wallpapercave.com/wp/wp7453285.jpg"]
+var carBG = [
+"../img/car0.jpeg",
+"../img/car1.jpeg",
+"../img/car2.jpeg",
+"../img/car3.jpeg",
+"../img/car4.jpeg",
+"../img/car5.jpeg",
+"../img/car6.jpeg",
+"../img/car7.jpeg",
+"../img/car8.jpeg",
+"../img/car9.jpeg",
+"../img/car10.jpeg",
+"../img/car11.jpeg",
+"../img/car12.jpeg",
+"../img/car13.jpeg",
+"../img/car14.jpeg"
+]
 
 
 wallpaper()
@@ -45,9 +50,9 @@ function wallpaper() {
 
 function companys() {
   document.getElementById("html").style.backgroundImage = `url(https://www.omadasearch.com/wp-content/uploads/2020/05/What-is-it-like-working-in-IT.jpg)`
-
+  document.getElementById("head").style.height = `auto`
   document.getElementById("staff").innerHTML = ``
-    document.getElementById("content").innerHTML = ``
+  document.getElementById("content").innerHTML = ``
   document.getElementById("head").innerHTML = ``
   document.getElementById("navigation").innerHTML = `<div class="navbar">
     <div id="stayLeft">
@@ -79,7 +84,8 @@ function companys() {
 function realEstate() {
   document.getElementById("staff").innerHTML = ``
   document.getElementById("content").innerHTML = ``
-  document.getElementById("html").style.backgroundImage = `url(https://res.cloudinary.com/trends-publishing/image/upload/dpr_2.0,g_center,w_640/f_auto,q_auto:eco/0151869.jpg)`
+  document.getElementById("head").style.height = `auto`
+  document.getElementById("html").style.backgroundImage = `url(../img/realEstateBackground.webp)`
   document.getElementById("head").innerHTML = `<h1 id="panercons">Panercons' Real Estate Agency</h1>`
   document.getElementById("navigation").innerHTML = `<div class="navbar">
   <div id="stayLeft">
@@ -118,7 +124,7 @@ function realEstate() {
 function staff() {
 
   document.getElementById(`content`).innerHTML = ``
-  
+  document.getElementById("head").style.height = `auto`
   document.getElementById("navigation").innerHTML = `<div class="navbar">
     <div id="fistBlock">
     <a onclick="home()">Home</a>
@@ -183,6 +189,7 @@ function sendapplication(){
 
 function home() {
   console.log(i)
+  document.getElementById("head").style.height = `100%`
   document.getElementById("html").style.backgroundImage = `url(${pics[i]})`
   i = Math.floor(Math.random() * 14) + 1;
   document.getElementById("content").innerHTML = ``
@@ -214,6 +221,7 @@ function showCars() {
   let i = Math.floor(Math.random() * 14) + 1;
   console.log(i)
   document.getElementById("html").style.backgroundImage = `url(${carBG[i]})`
+  document.getElementById("head").style.height = `auto`
   document.getElementById("head").innerHTML = `<h1><img src="./img/logo.png" alt="Premium Deluxe Motorsport" id="logo"></h1>`
   document.getElementById("staff").innerHTML = ``
   document.getElementById("content").innerHTML = ``
@@ -338,6 +346,7 @@ function apply() {
   i = Math.floor(Math.random() * 14) + 1;
   document.getElementById("staff").innerHTML = ``
   document.getElementById("head").innerHTML = ``
+  document.getElementById("head").style.height = `auto`
   document.getElementById("navigation").innerHTML = `
   <div class="navbar">
     <div id="fistBlock">
@@ -358,7 +367,7 @@ document.getElementById("content").innerHTML  = `<div class="wrapper15">
   <form action="" method="POST">
     <div class="form-group">
       <label for="name">Full Name</label>
-      <input type="text" name="Name" id="name" placeholder="Eric Example" required minlength="3" maxlength="25" />
+      <input type="text" name="Name" id="name" placeholder="Erik Example" required minlength="3" maxlength="25" />
     </div>
     <div class="form-group">
     <label for="birthday">Birthday</label>
@@ -390,6 +399,7 @@ function faq(){
   i = Math.floor(Math.random() * 14) + 1;
   document.getElementById("staff").innerHTML = ``
   document.getElementById("head").innerHTML = ``
+  document.getElementById("head").style.height = `auto`
   document.getElementById("navigation").innerHTML = `
   <div class="navbar">
     <div id="fistBlock">
@@ -414,7 +424,7 @@ function faq(){
       </div>
       <div class="accordion-item-body">
         <div class="accordion-item-body-content">
-          HometownLA is a English based GTAV Roleplay Server based on the QBCore Framework. The Server is currently in the state of an Closed-Beta, meaning the projects is in its final stage of completion.
+          HometownLA is a Gerrman based GTAV Roleplay Server based on the QBCore Framework. The Server is currently in the state of an Closed-Beta, meaning the projects is in its final stage of completion.
         </div>
       </div>
     </div>
@@ -492,6 +502,7 @@ function stgb(){
   document.getElementById(`content`).innerHTML = ``
   i = Math.floor(Math.random() * 14) + 1;
   document.getElementById("staff").innerHTML = ``
+  document.getElementById("head").style.height = `auto`
   document.getElementById("head").innerHTML = ``
   document.getElementById("navigation").innerHTML = `
   <div class="navbar">
@@ -1269,6 +1280,10 @@ accordionItemHeaders.forEach(accordionItemHeader => {
 }
 
 
+
+function getDatabaseDatas() {
+
+}
 
 
 
