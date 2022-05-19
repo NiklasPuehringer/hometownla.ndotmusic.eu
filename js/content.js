@@ -1,6 +1,8 @@
 let i = Math.floor(Math.random() * 14) + 1;
 let random = i
 
+
+
 var pics = [
 "../img/wallpaper0.jpeg",
 "../img/wallpaper1.jpeg",
@@ -292,7 +294,7 @@ function showCars() {
     <div class="searchBox">
 
     <input id="carInput" class="searchInput"type="text" name="" placeholder="Search">
-    <button class="searchButton" onclick="searchCar()">
+    <button class="searchButton" id="searchButton" onclick="searchCar()">
         <img id="searchIcon" src="./img/search.jpeg" alt="search">
     </button>
 </div>
@@ -410,6 +412,15 @@ function showCars() {
     </div>
     </div>
   </div>`
+
+  document.getElementById("carInput").addEventListener("keyup", function(event) {
+    event.preventDefault();
+    if (event.keyCode === 13) {
+        document.getElementById("searchButton").click();
+    }
+    });
+
+    
 }
 
 

@@ -7,8 +7,10 @@ function searchCar() {
 
      document.getElementById('content').innerHTML = ``
      for(let i = 1; i != null; i++) {   
+         let name = cars[i].name.toLowerCase()
+         let brand = cars[i].brand.toLowerCase()
 
-        if(cars[i].brand.toLowerCase() == searchfor || cars[i].name.toLowerCase() == searchfor) {
+        if(brand.match(searchfor) || name.match(searchfor)) {
             document.getElementById(`content`).innerHTML += `
                 <div class="box">
                 <h4 class="brand">${cars[i].brand}</h2>
@@ -22,9 +24,7 @@ function searchCar() {
                 </div>
             `
         }
-           
     }
-
 }
 
 function alfaromeo() {
