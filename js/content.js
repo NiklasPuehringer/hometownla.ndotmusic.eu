@@ -29,8 +29,8 @@ var carBG = [
 "../img/car6.jpeg",
 "../img/car7.jpeg",
 "../img/car8.jpeg",
-"../img/car9.jpeg",
-"../img/car10.jpeg",
+"../img/car9.png",
+"../img/car10.png",
 "../img/car11.jpeg",
 "../img/car12.jpeg",
 "../img/car13.jpeg",
@@ -128,12 +128,13 @@ function staff() {
   document.getElementById("navigation").innerHTML = `<div class="navbar">
     <div id="fistBlock">
     <a onclick="home()">Home</a>
-    <a id="currentNav" onclick="staff()">Staff</a>
+    <a id="currentNav"onclick="staff()">Staff</a>
     <a onclick="faq()">FAQ</a>
-    <a onclick="apply()">Apply</a>
+    <a onclick="apply()">Apply (Beta)</a>
     <a onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
+    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
@@ -175,9 +176,63 @@ function staff() {
 `
 }
 
+function apply() {
+  console.log(i)
+  i = Math.floor(Math.random() * 14) + 1;
+  document.getElementById("staff").innerHTML = ``
+  document.getElementById("head").innerHTML = ``
+  document.getElementById("head").style.height = `auto`
+  document.getElementById("navigation").innerHTML = `
+  <div class="navbar">
+    <div id="fistBlock">
+    <a onclick="home()">Home</a>
+    <a onclick="staff()">Staff</a>
+    <a onclick="faq()">FAQ</a>
+    <a id="currentNav"onclick="apply()">Apply (Beta)</a>
+    <a onclick="stgb()">StGB</a>
+    </div>
+    <div id="secondBlock">
+    <a onclick="database()">Database (Alpha)</a>
+    <a onclick="companys()">Companys</a>
+    <a onclick="realEstate()">Panercons' Real Estate Agency</a>
+    <a onclick="showCars()">Premium Deluxe Motorsport</a>
+    </div>
+</div>`
+document.getElementById("content").innerHTML  = `<div class="wrapper15">
+  <h3 class="h3" id="law-main">Apply for Whitelisting</h3>
+  <h6 class="h3" id="law-main">BETA</h6>
+  <form action="" method="POST">
+    <div class="form-group">
+      <label for="name">Full Name</label>
+      <input type="text" name="Name" id="name" placeholder="Erik Example" required minlength="3" maxlength="25" />
+    </div>
+    <div class="form-group">
+    <label for="birthday">Birthday</label>
+<input type="date" id="birthday" name="birthday" placeholder="TT.MM.JJJJ">
+</div>
+<div class="form-group">
+      <label for="name">Steam ID64</label>
+      <input type="text" name="Name" id="steamid" placeholder="00000000000000000" required minlength="17" maxlength="17" />
+    </div>
+    <div class="form-group">
+      <label for="email">Email Address</label>
+      <input type="email" name="Email" id="email" placeholder="apply@hometown.la" required />
+    </div>
+    <div class="form-group">
+      <label for="message">Backstory</label>
+      <textarea name="Message" id="message" rows="5" placeholder="I am a Character"></textarea>
+    </div>
+    <div class="form-group">
+    <button type="submit" onclick="sendapplication()" class="submit"><i class="far fa-paper-plane"></i>Send</button>
+    </div>
+  </form>
+</div>`
+}
+
+
 function sendapplication(){
   let name = document.getElementById("name").value
-  let birthday = document.getElementById("birtday").value
+  let birthday = document.getElementById("birthday").value
   let steamid = document.getElementById("steamid").value
   let email = document.getElementById("email").value
   let message = document.getElementById("message").value
@@ -185,7 +240,11 @@ function sendapplication(){
   console.log(name + " " + birthday + " " + steamid + " " + email + " " + message) 
 
   document.getElementById("content").innerHTML = `<h1>Application has been sent</h1>`
+
+  location.href=`mailto:niklasyann@ndotmusic.eu?subject=Application HometownLA&body=Full Name: ${name}, Birthday: ${birthday}, SteamID: ${steamid}, Mail: ${email}, Backstory: ${message}`
 }
+
+
 
 function home() {
   console.log(i)
@@ -204,10 +263,11 @@ function home() {
     <a id="currentNav" onclick="home()">Home</a>
     <a onclick="staff()">Staff</a>
     <a onclick="faq()">FAQ</a>
-    <a onclick="apply()">Apply</a>
+    <a onclick="apply()">Apply (Beta)</a>
     <a onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
+    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
@@ -228,8 +288,23 @@ function showCars() {
   document.getElementById("navigation").innerHTML = `<div class="navbar">
   <div id="stayLeft">
     <a onclick="home()">Home</a>
+
+    <div class="searchBox">
+
+    <input id="carInput" class="searchInput"type="text" name="" placeholder="Search">
+    <button class="searchButton" onclick="searchCar()">
+        <img id="searchIcon" src="./img/search.jpeg" alt="search">
+    </button>
+</div>
+
+
     </div>
     <div id="secondBlock">
+    
+    
+
+
+
     <div class="dropdown">
       <button class="dropbtn">Exclusives
         <i class="fa fa-caret-down"></i>
@@ -341,56 +416,7 @@ function showCars() {
 
 
 
-function apply() {
-  console.log(i)
-  i = Math.floor(Math.random() * 14) + 1;
-  document.getElementById("staff").innerHTML = ``
-  document.getElementById("head").innerHTML = ``
-  document.getElementById("head").style.height = `auto`
-  document.getElementById("navigation").innerHTML = `
-  <div class="navbar">
-    <div id="fistBlock">
-    <a onclick="home()">Home</a>
-    <a onclick="staff()">Staff</a>
-    <a onclick="faq()">FAQ</a>
-    <a id="currentNav" onclick="apply()">Apply</a>
-    <a onclick="stgb()">StGB</a>
-    </div>
-    <div id="secondBlock">
-    <a onclick="companys()">Companys</a>
-    <a onclick="realEstate()">Panercons' Real Estate Agency</a>
-    <a onclick="showCars()">Premium Deluxe Motorsport</a>
-    </div>
-</div>`
-document.getElementById("content").innerHTML  = `<div class="wrapper15">
-  <h3 class="h3" id="law-main">Apply for Whitelisting</h3>
-  <form action="" method="POST">
-    <div class="form-group">
-      <label for="name">Full Name</label>
-      <input type="text" name="Name" id="name" placeholder="Erik Example" required minlength="3" maxlength="25" />
-    </div>
-    <div class="form-group">
-    <label for="birthday">Birthday</label>
-<input type="date" id="birthday" name="birthday" placeholder="TT.MM.JJJJ">
-</div>
-<div class="form-group">
-      <label for="name">Steam ID64</label>
-      <input type="text" name="Name" id="steamid" placeholder="00000000000000000" required minlength="17" maxlength="17" />
-    </div>
-    <div class="form-group">
-      <label for="email">Email Address</label>
-      <input type="email" name="Email" id="email" placeholder="apply@hometown.la" required />
-    </div>
-    <div class="form-group">
-      <label for="message">Backstory</label>
-      <textarea name="Message" id="message" rows="5" placeholder="I am a Character"></textarea>
-    </div>
-    <div class="form-group">
-      <button type="submit" onclick="sendapplication()" class="submit"><i class="far fa-paper-plane"></i>Send</button>
-    </div>
-  </form>
-</div>`
-}
+
 
 
 function faq(){
@@ -405,11 +431,12 @@ function faq(){
     <div id="fistBlock">
     <a onclick="home()">Home</a>
     <a onclick="staff()">Staff</a>
-    <a id="currentNav" onclick="faq()">FAQ</a>
-    <a onclick="apply()">Apply</a>
+    <a id="currentNav"onclick="faq()">FAQ</a>
+    <a onclick="apply()">Apply (Beta)</a>
     <a onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
+    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
@@ -510,10 +537,11 @@ function stgb(){
     <a onclick="home()">Home</a>
     <a onclick="staff()">Staff</a>
     <a onclick="faq()">FAQ</a>
-    <a onclick="apply()">Apply</a>
-    <a id="currentNav" onclick="stgb()">StGB</a>
+    <a onclick="apply()">Apply (Beta)</a>
+    <a id="currentNav"onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
+    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
@@ -1281,8 +1309,37 @@ accordionItemHeaders.forEach(accordionItemHeader => {
 
 
 
-function getDatabaseDatas() {
-
+function database() {
+  document.getElementById("html").style.backgroundImage = `url(../img/database.jpeg)`
+  document.getElementById("head").style.height = `auto`
+  document.getElementById("staff").innerHTML = ``
+  document.getElementById("content").innerHTML = ``
+  document.getElementById("head").innerHTML = ``
+  document.getElementById("navigation").innerHTML = `<div class="navbar">
+    <div id="stayLeft">
+    <a onclick="home()">Home</a>
+    </div>
+    <div id="secondBlock">
+    <div class="dropdown">
+      <button class="dropbtn">Civilian Data
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a onclick="">Alpha</a>
+        <a onclick="">Alpha</a>
+      </div>
+    </div>
+    <div class="dropdown">
+        <button class="dropbtn">Police Database
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a onclick="">Alpha</a>
+          <a onclick="">Alpha</a>
+        </div>
+      </div>
+      </div>
+  </div>`
 }
 
 

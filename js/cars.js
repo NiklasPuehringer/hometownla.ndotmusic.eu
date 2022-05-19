@@ -1,4 +1,31 @@
+function searchCar() {
+    let searchfor = document.getElementById('carInput').value 
+    searchfor = searchfor.toLowerCase()
+     if(searchfor == null){
+         return;
+     }
 
+     document.getElementById('content').innerHTML = ``
+     for(let i = 1; i != null; i++) {   
+
+        if(cars[i].brand.toLowerCase() == searchfor || cars[i].name.toLowerCase() == searchfor) {
+            document.getElementById(`content`).innerHTML += `
+                <div class="box">
+                <h4 class="brand">${cars[i].brand}</h2>
+                <h2 class="headline">${cars[i].name}</h2>
+                <img class="carimgs" alt="${cars[i].name}" src ="${cars[i].Image}">
+                <h5 class="text">Price: ${cars[i].Price}</h5>
+                <h5 class=HP>HP: ${cars[i].HP}</h5>
+                <h5 class=kph>0-100kph: ${cars[i].kph}</h5>
+                <h5 class=vmax>Top-Speed: ${cars[i].vmax}</h5>
+                <h5 class="spawns">Spawnname: ${cars[i].spawn}</h5>
+                </div>
+            `
+        }
+           
+    }
+
+}
 
 function alfaromeo() {
 
