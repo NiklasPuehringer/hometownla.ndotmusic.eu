@@ -108,7 +108,10 @@ img {
 
 .carimgs{
     width: 10vw;
+    border-radius: 0.5vw;
+    box-shadow: 0 0 2vw black inset;
 }
+
 
 #staff a h4 :hover{
   color: rgb(151, 0, 0);
@@ -193,16 +196,17 @@ img {
 }
 
 .box{
-    width: 15vw;
+    width: 25vw;
     height: auto;
-    background-color: rgba(255, 255, 255, 0.4);
-    border-radius: 1vw;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5vw;
     border-color: #000;
-    border-width: 0.2vw;
+    border-width: 0vw;
     border-style: solid;
-    margin: 1vw;
+    margin: 0vw;
     margin-top: 1vw;
-}
+    border-image: linear-gradient(white, transparent);
+  }
 
 #staff img{
   border-radius: 2vw;
