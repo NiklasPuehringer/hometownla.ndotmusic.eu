@@ -24,7 +24,7 @@ var pics = [
 var carBG = [
 "../img/car0.jpeg",
 "../img/car1.jpeg",
-"../img/car2.jpeg",
+"../img/car2.webp",
 "../img/car3.jpeg",
 "../img/car4.jpeg",
 "../img/car5.jpeg",
@@ -318,7 +318,7 @@ function showCars() {
         <a onclick="konigsegg()">Koenigsegg</a>
         <a onclick="libertywalk()">Liberty Walk</a>
         <a onclick="pagani()">Pagani</a>
-        <a onclick="nobles()">Noble</a>
+        <a onclick="noble()">Noble</a>
         <a onclick="rollsroyce()">Rolls Royce</a>
         <a onclick="lambo()">Lamborghini</a>
         <a onclick="ferrari()">Ferrari</a>
