@@ -108,10 +108,8 @@ img {
 
 .carimgs{
     width: 10vw;
-    border-radius: 0.5vw;
-    box-shadow: 0 0 2vw black inset;
+    border-radius: 1vw;
 }
-
 
 #staff a h4 :hover{
   color: rgb(151, 0, 0);
@@ -196,17 +194,16 @@ img {
 }
 
 .box{
-    width: 25vw;
+    width: 15vw;
     height: auto;
-    background-color: rgb(255, 255, 255);
-    border-radius: 0.5vw;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 1vw;
     border-color: #000;
-    border-width: 0vw;
+    border-width: 0.2vw;
     border-style: solid;
-    margin: 0vw;
+    margin: 1vw;
     margin-top: 1vw;
-    border-image: linear-gradient(white, transparent);
-  }
+}
 
 #staff img{
   border-radius: 2vw;
@@ -229,7 +226,7 @@ img {
 #pans{
   width: 80vw;
     padding: 2vw;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.6);
     border-radius:  2vw;
     overflow: hidden;
     color: #000;
@@ -524,7 +521,7 @@ img {
     margin: 2rem auto;
   }
   .accordion-item {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.664);
     color: #111;
     margin: 1rem 0;
     margin-bottom: auto;

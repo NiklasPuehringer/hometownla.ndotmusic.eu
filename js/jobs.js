@@ -25,7 +25,7 @@ function lamd(){
     
     document.getElementById("content").innerHTML = `
     <div id="pans">
-    <h2>Medical Chief: -Set Character Name-</h2>
+    <h2>Medical Chief: --Apply via Discord---</h2>
     <hr>
     <h3>The Los Angeles Medical Department</h3>
     </div>
@@ -55,7 +55,7 @@ function galaxy(){
 
 function panercons(){
     document.getElementById("head").innerHTML = `<h1>Panercon's Real Estate Agency</h1>`
-    document.getElementById("html").style.backgroundImage = `url(../img/RealEstateBackground.webp)`
+    document.getElementById("html").style.backgroundImage = `url(./img/realEstateBackground.webp)`
     document.getElementById("content").innerHTML = `
     <div id="pans">
     <h2>Owner: Biggus Panercons</h2>

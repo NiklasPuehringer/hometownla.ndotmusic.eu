@@ -136,7 +136,6 @@ function staff() {
     <a onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
-    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
@@ -166,8 +165,8 @@ function staff() {
         
         <h2>Ninel Matko</h2>
         <a><h4>Research | Development</h4></a>
-        <h4>Sn0w2410#3368</h4></a>
-        <img src="./img/snow.jpeg">
+        <h4>Sn0w2410#7928</h4></a>
+        <img src="./img/snow.png">
         
         </div>
 
@@ -194,7 +193,6 @@ function apply() {
     <a onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
-    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
@@ -269,7 +267,6 @@ function home() {
     <a onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
-    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
@@ -447,7 +444,6 @@ function faq(){
     <a onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
-    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
@@ -552,7 +548,6 @@ function stgb(){
     <a id="currentNav"onclick="stgb()">StGB</a>
     </div>
     <div id="secondBlock">
-    <a onclick="database()">Database (Alpha)</a>
     <a onclick="companys()">Companys</a>
     <a onclick="realEstate()">Panercons' Real Estate Agency</a>
     <a onclick="showCars()">Premium Deluxe Motorsport</a>
